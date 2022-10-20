@@ -43,7 +43,7 @@ var userThree= {
 
 //CLASS 'created to avoid rewriting mannualy the repeated block -video 5
 
-class User{
+class User{   //main constructor block
     constructor(email, name){  //creating a new empty object
         this.email = email;  //sets the value of this to be the new empty object
         this.name = name;
